@@ -1,7 +1,7 @@
 <?php
 
     //putenv("PATH=F:\SOFT\CodeBlocks\MinGW\bin");
-	$CC="~/.apt/usr/local/bin/g++";
+	$CC="g++";
 	$out="timeout 10 ./a.out";
 	$code=trim($_POST["text"]);
 	$input=trim($_POST["input"]);

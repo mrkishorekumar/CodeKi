@@ -63,12 +63,6 @@ EXPOSE 80
 #Change Permission
 RUN chmod -R 777 /var/www/html/
 
-#Copy files to webserver 
-COPY editor /var/www/html/
-
-# Remove Default index.html
-RUN rm /var/www/html/index.html
-
 #Start services
 CMD ["/usr/sbin/apache2ctl","-D","FOREGROUND"]
 

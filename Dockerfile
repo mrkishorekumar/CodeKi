@@ -2,7 +2,7 @@
 FROM ubuntu:18.04
 
 # LABEL about the custom image
-LABEL maintainer="Gabu Siddharth"
+LABEL maintainer="M R Kishore Kumar"
 LABEL version="0.1"
 LABEL description="This is custom Docker Image for the Online Compiler."
 

@@ -1,7 +1,7 @@
 <?php
 
     //putenv("PATH=F:\SOFT\jsnode");
-	$CC="node";
+	$CC="nodejs";
 	$out="output.txt";
 	$code=trim($_POST["text"]);
 	$input=trim($_POST["input"]);

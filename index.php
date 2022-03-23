@@ -26,11 +26,11 @@
         <div class="labeltheme">
           <!-- <label for="modes">Language :</label> -->
           <select id="modes" size="1" onchange="changeMode()" style="background:#e8e8e8 url('chevron-down-solid.svg') no-repeat 90% 50%;-webkit-appearance: none;">
-<!--             <option value="ace/mode/java">java</option>
-            <option value="ace/mode/c_cpp" selected>cpp</option> -->
+          <option value="ace/mode/java">java</option>
+            <option value="ace/mode/c_cpp" selected>cpp</option> 
             <option value="ace/mode/c_cpp">c</option>
             <!-- <option value="ace/mode/html">html</option> -->
-<!--             <option value="ace/mode/javascript">javascript</option> -->
+           <option value="ace/mode/javascript">javascript</option> 
 	    <option value="ace/mode/python">python3</option>
            </select>
         </div>

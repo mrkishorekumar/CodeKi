@@ -2,7 +2,7 @@
 <html lang="en-IN" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>CodeKi Online Compiler</title>
+    <title>CodeKi - Free Online Compiler</title>
     <meta name="author" content="M R Kishore Kumar">
     <meta name="description" content="Online C,C++,JAVA,Python,Javascript compiler: you can write your code and run cheers!">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
